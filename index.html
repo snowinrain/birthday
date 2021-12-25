@@ -2,7 +2,7 @@
 <!-- saved from url=(0014)about:internet -->
 <html lang="en" class="js hydrated"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script async="" type="text/javascript" src="./test_files/gpt.js.download"></script><script src="./test_files/f(4).txt"></script><script src="./test_files/f(5).txt" id="google_shimpl"></script><script async="" src="./test_files/main.6ae4a9fc.js.download"></script><script type="text/javascript" src="./test_files/1.txt"></script><script type="text/javascript" src="./test_files/1(1).txt"></script><script type="text/javascript" async="" src="./test_files/js"></script><script type="text/javascript" async="" src="./test_files/ec.js.download"></script><script async="" src="./test_files/analytics.js.download"></script><script type="text/javascript" src="./test_files/moatframe.js.download"></script>
 <style data-styles="">checkbox-switch{visibility:hidden}.hydrated{visibility:inherit}</style>
-<title>An online card from Lê Quang Nhân | Greetings Island</title>
+<title>An online card from Lê Quang Nhân</title>
 <meta http-equiv="Accept-CH" content="DPR, Width, Viewport-Width">
 <meta http-equiv="x-ua-compatible" content="IE=Edge">
 <script src="./test_files/333580465081457" async=""></script><script src="./test_files/bat.js.download" async=""></script><script async="" src="./test_files/core.js.download"></script><script src="./test_files/_dG2zdkxWEjd0YpkTJJbYqypmlc.js.download"></script><script src="./test_files/f2ZY6sADDdGntoCHyUyQWQlK8o8.js.download"></script><link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="">
