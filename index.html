@@ -62,7 +62,7 @@
 <meta name="description">
 <meta name="browser" content="chrome">
 <meta name="twitter:card" content="summary">
-<meta property="og:title" content="An online card from Lê Quang Nhân | Greetings Island">
+<meta property="og:title" content="An online card from Lê Quang Nhân">
 <meta property="og:site_name" content="Greetings Island">
 <meta property="og:url" content="https://www.greetingsisland.com/ecard/puf0nq1tdoix/en">
 <meta property="og:image" content="https://online.images.greetingsisland.com/Ecards/cd36404c-027b-4141-b899-f7d6c3df29ea.jpg">
